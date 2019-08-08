@@ -1,0 +1,9 @@
+{
+  "name": "pracainzynierska",
+  "version": "1.0",
+  "description": "projekt na pracę inżynierską",
+  "dependencies": {
+    "express": "^4.16.4",
+    "socket.io": "^2.2.0"
+  }
+}
